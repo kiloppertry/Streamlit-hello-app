@@ -1,0 +1,10 @@
+tushare
+pandas 
+matplotlib
+numpy
+scipy
+time
+plotly
+streamlit
+pylab
+
